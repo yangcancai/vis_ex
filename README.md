@@ -1,7 +1,7 @@
 # VisEx
 
 To start your Phoenix server:
-
+  * Run `cd assets && npm i && cd ..` to install vis.js 
   * Run `mix setup` to install and setup dependencies
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
@@ -16,3 +16,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Show Siample Diagram
+![](./images/simple_node.png)
